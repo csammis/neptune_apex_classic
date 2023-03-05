@@ -1,0 +1,4 @@
+aiohttp==3.8.4
+beautifulsoup4==4.11.2
+lxml==4.9.2
+pylint==2.16.0
